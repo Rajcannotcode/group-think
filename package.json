@@ -1,0 +1,8 @@
+{
+  "name": "group-think",
+  "version": "1.0.0",
+  "description": "Group Think party game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
